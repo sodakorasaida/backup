@@ -1,0 +1,8 @@
+package com.internousdev.webproj.action;
+
+public class InquiryAction {
+	public String execute() {
+		return SUCCESS;
+	}
+
+}
