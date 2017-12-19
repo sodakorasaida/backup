@@ -1,0 +1,19 @@
+INDEX VERSION 1.127+C:\Users\internousdev\Desktop\workspace\workspace-imaizumi\backup\workspace\.metadata\.plugins\org.eclipse.jdt.core
+3082098993.index
+751851921.index
+1742361540.index
+921119291.index
+1587186039.index
+101506222.index
+2150458918.index
+1549101164.index
+2973741549.index
+2821276585.index
+434499120.index
+3474152380.index
+3915913391.index
+955549336.index
+507536937.index
+2795787554.index
+3250446158.index
+3335549535.index
