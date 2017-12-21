@@ -13,4 +13,4 @@
 <br>
 <h3>MySQLと接続できません。</h3>
 </body>
-</html>ｓ
+</html>
