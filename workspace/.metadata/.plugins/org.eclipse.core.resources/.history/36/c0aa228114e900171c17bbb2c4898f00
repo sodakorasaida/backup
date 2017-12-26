@@ -1,0 +1,16 @@
+package aaa;
+
+public class HelloWorld {
+
+	public static void main(String[] args) {
+		// TODO 自動生成されたメソッド・スタブ
+
+		long pp =2_000_000;
+
+		System.out.println(pp);
+
+		System.out.println("私の好きな記号は二重引用符\"です");
+
+	}
+
+}

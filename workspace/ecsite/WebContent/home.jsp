@@ -74,6 +74,7 @@
 
 		<div id="text-center">
 			<s:form action="HomeAction">
+<%--s:formとはフォームタグに囲まれている中身をsubmitボタンでHomeAcionに送っている --%>
 				<s:submit value="商品購入"/>
 			</s:form>
 			<s:if test="#session.id != null">

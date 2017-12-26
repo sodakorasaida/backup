@@ -1,0 +1,29 @@
+package aaa;
+
+public class HelloWorld {
+
+	public static void main(String[] args) {
+		// TODO 自動生成されたメソッド・スタブ
+
+		long pp =2_000_000;
+
+		System.out.println(pp);
+
+		System.out.println("1200\\");
+
+		 int a;
+		a=5;
+		System.out.println(a);
+
+		a=7;
+		System.out.println(a);
+
+		int a= 5;
+		int b=a + 12;
+
+		System.out.println(b);
+
+
+	}
+
+}
